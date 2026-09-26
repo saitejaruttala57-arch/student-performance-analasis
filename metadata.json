@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse — Student Performance Analysis",
+  "description": "Comprehensive student academic performance analytics platform with subject mastery breakdowns, attendance correlations, and at-risk early intervention diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
